@@ -209,12 +209,5 @@ footer {
     font-size: 20px;
   }
   
-  /* Responsive styles */
-  @media screen and (min-width: 768px) {
-    .footer-column {
-      width: calc(33.33% - 20px);
-      margin-bottom: 0;
-    }
-  }
 
   
