@@ -9,6 +9,11 @@ body
     background-color: #111;   
 }
 
+html,
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
 
 .row_poster
 {
