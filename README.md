@@ -5,3 +5,4 @@
 
 ![Capture1](https://github.com/Dhruvpandey08/Netflix-Clone/assets/87525399/cf799fc3-61ad-4a21-b52d-5a6aeae6ef46)
 
+<a href="https://netflix-clone-fed.netlify.app/">Live Link</a>
